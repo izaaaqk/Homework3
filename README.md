@@ -11,4 +11,4 @@
 <br>I created a for loop to create a random password with tthe parameter that the user chose.<br>
 <br>since i got an array we need to convert it to a string for it to be the messege in our texbox in the html.<br>
 <br>https://izaaaqk.github.io/PasswordGenerator/
-<br>![this is how the applooks like](./image/passWordGen.jpg)
+<br>![this is how the applooks like](./images/passWordGen.jpg)
